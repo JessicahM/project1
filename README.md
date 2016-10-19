@@ -1,5 +1,5 @@
 #Project1
-> In this project you will find a "hello world" file that shows some of the basics of writing a html document.
+> In this project you will find a "hello world" file and a couple of more files that show some of the basics of writing a html document.
 
 
 MIT License
